@@ -32,7 +32,7 @@ This repository contains the code for an ATS (Applicant Tracking System) Resume 
 
 ## Usage
 
-1. Get your API key for the Google Generative AI Gemini model. Follow the instructions [here](https://cloud.google.com/ai-platform/generative-ai/docs/getting-started) to obtain your API key.
+1. Get your API key for the Google Generative AI Gemini model. Follow the instructions [here](https://ai.google.dev/gemini-api/docs/api-key) to obtain your API key.
 
 2. Create a `.env` file in the root directory of the project and add your API key:
 
