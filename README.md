@@ -45,3 +45,7 @@ This repository contains the code for an ATS (Applicant Tracking System) Resume 
     ```sh
     streamlit run app.py
     ```
+
+### Credits - 
+
+Made using guidance from youtube video of Krish Naik - [YouTube](https://www.youtube.com/watch?v=EECUXqFrwbc)
