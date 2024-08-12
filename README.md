@@ -50,4 +50,4 @@ This repository contains the code for an ATS (Applicant Tracking System) Resume 
 
 Made using guidance from youtube video of Krish Naik - [YouTube](https://www.youtube.com/watch?v=EECUXqFrwbc)
 
-<a href="https://app.commanddash.io/agent?github=<your github repo>"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
+<a href="https://app.commanddash.io/agent?github=[<your github repo>](https://github.com/farhanah09/ATS-Using-Gemini)"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
