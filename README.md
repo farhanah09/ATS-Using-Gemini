@@ -49,3 +49,5 @@ This repository contains the code for an ATS (Applicant Tracking System) Resume 
 ### Credits - 
 
 Made using guidance from youtube video of Krish Naik - [YouTube](https://www.youtube.com/watch?v=EECUXqFrwbc)
+
+<a href="https://app.commanddash.io/agent?github=<your github repo>"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
