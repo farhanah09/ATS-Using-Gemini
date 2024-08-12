@@ -1,3 +1,5 @@
+<a href="https://app.commanddash.io/agent?github=https://github.com/farhanah09/ATS-Using-Gemini"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
+
 # ATS Resume Scanner
 
 This repository contains the code for an ATS (Applicant Tracking System) Resume Scanner. This application allows users to upload a resume in PDF format and evaluate it against a job description using the Google Generative AI Gemini model.
@@ -49,5 +51,3 @@ This repository contains the code for an ATS (Applicant Tracking System) Resume 
 ### Credits - 
 
 Made using guidance from youtube video of Krish Naik - [YouTube](https://www.youtube.com/watch?v=EECUXqFrwbc)
-
-<a href="https://app.commanddash.io/agent?github=https://github.com/farhanah09/ATS-Using-Gemini"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
